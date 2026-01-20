@@ -12,5 +12,5 @@ This is a simple task manager app built using React. It allows users to add, com
 
 ## Live Demo
 
-You can try the app live here: [Task Manager App Demo](#)
+You can try the app live here: [Task Manager App Demo](https://simple-task-manager-application.netlify.app/)
 
